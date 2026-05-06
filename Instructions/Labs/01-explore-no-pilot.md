@@ -40,7 +40,7 @@ Imagine you're an employee at *Fourth Coffee Company*, a company that supplies c
 
 *No-Pilot* is an AI assistant that you can use at work to find information, connect with company data resources, and perform common tasks.
 
-1. Open **[No-Pilot](https://graememalcolm.github.io/ai-apps/no-pilot/){:target="_blank"}** at `https://graememalcolm.github.io/ai-apps/no-pilot/`.
+1. Open **[No-Pilot](https://graememalcolm.github.io/ai-apps/no-pilot/)** at `https://graememalcolm.github.io/ai-apps/no-pilot/`.
 
     The first time you open the app, an AI model will be downloaded. This can take a minute or two - be patient! After it's been downloaded once, it will be quicker in future!
 
@@ -60,7 +60,7 @@ Imagine you're an employee at *Fourth Coffee Company*, a company that supplies c
 
 1. So far so good; but you're tired of typing now. Let's try using voice input. Select the microphone button on the right of the chat box and when the mic is listening, say (loudly and clearly) *"What is filter coffee?"*
 
-    > **Tip**: Depending on your bwoser and operating system, the default Web Speech tool used for voice input may not be supported. In this case, the app will try an alternative offline speech model - so you may be prompted to speak again. If *that* fails, you're stuck with typing I'm afraid!
+    > **Tip**: Depending on your browser and operating system, the default Web Speech tool used for voice input may not be supported. In this case, the app will try an alternative offline speech model - so you may be prompted to speak again. If *that* fails, you're stuck with typing I'm afraid!
 
 ## Explore organizational knowledge
 
