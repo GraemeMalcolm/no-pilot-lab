@@ -116,13 +116,13 @@ The chat interface is great for exploring assets related to your current work, b
 
     Note that the search results are restricted to corporate data to which you (and No-Pilot) have access!
 
-1. Search for `Services`, and in the results, find and open the **Fourth_Coffee_Services_Overview.md** document.
+1. Search for `Microsoft`, and in the results, find and open the **Microsoft_Financial_Projection.csv** document.
 
     In the open document, use the **No-Pilot assistant** button to summarize the document.
 
-1. Close the services overview document.
+1. Close the financial projections document.
 
-    Now you know a little more about the services Fourth Coffee Company offers. But what do you know about your customer?
+    Now you know a little more about the sales proposal. But what do you know about your customer?
 
 ## Use the Researcher agent
 
