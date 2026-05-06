@@ -116,7 +116,7 @@ The chat interface is great for exploring assets related to your current work, b
 
     Note that the search results are restricted to corporate data to which you (and No-Pilot) have access!
 
-1. Search for **Services**, and in the results, find and open the **Fourth_Coffee_Services_Overview.md** document.
+1. Search for `Services`, and in the results, find and open the **Fourth_Coffee_Services_Overview.md** document.
 
     In the open document, use the **No-Pilot assistant** button to summarize the document.
 
