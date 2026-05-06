@@ -11,7 +11,7 @@ lab:
 
 # Explore No-Pilot (a Copilot-like experience)
 
-In this exercise you will use a lightweight application that emulates key features of Microsoft 365 Copilot Chat. While the app is in no way meant to reflect the actual performance and reasoning capabilities of the *real* Copilot; it offers a chance to explore common workflows and scenarios in which you might use Copilot at work.
+In this exercise you'll use a lightweight application that emulates key features of Microsoft 365 Copilot Chat. While the app is in no way meant to reflect the actual performance and reasoning capabilities of the *real* Copilot; it offers a chance to explore common workflows and scenarios in which you might use Copilot at work.
 
 This exercise should take approximately **30** minutes to complete.
 
@@ -27,12 +27,12 @@ The application should run successfully on most modern computers. To use the ful
 - 64-bit CPU, 4+ physical cores (8 logical threads preferred)
 - 8+ GB system RAM (16 GB recommended)
 - Enough storage to cache ~300MB–800MB model assets
-- Latest Chrome / Edge / Firefox with WASM SIMD enabled/available (WebGPU support is required for the default model; a WASM-based fallback is provided)
+- Latest Chrome / Microsoft Edge / Firefox with WASM SIMD enabled/available (WebGPU support is required for the default model; a WASM-based fallback is provided)
 - Audio hardware (mic and speaker) required for speech functionality
 
-If your computer meets these requirements, the app will use a GPU-based model (Microsoft Phi 3.1 mini). If no GPU is available, the app will fallback to a CPU-based Phi 2 model. If *that* fails to load, the app will use a simulated model that retrieves information from Wikipedia. The performance and accuracy of the AI capabilities of the app is largely dependent on the model.
+If your computer meets these requirements, the app will use a GPU-based model (Microsoft Phi 3.1 mini). If no GPU is available, the app will fall back to a CPU-based Phi 2 model. If *that* fails to load, the app will use a simulated model that retrieves information from Wikipedia. The performance and accuracy of the AI capabilities of the app is largely dependent on the model.
 
-If you're unsure - try it and see. You can explicitly select the Wikipedia-based fallback in the **&vellip;** menu at the top-right if the app is running too slowly or errors occur.
+If you're unsure - try it and see. You can explicitly select the Wikipedia-based fallback in the **&vellip;** menu at the top right if the app is running too slowly or errors occur.
 
 ## Chat with *No-Pilot*
 
@@ -58,7 +58,7 @@ Imagine you're an employee at *Fourth Coffee Company*, a company that supplies c
 
     Again, wait for the response.
 
-1. So far so good; but you're tired of typing now. Let's try using voice input. Click the microphone button on the right of the chat box and when the mic is listening, say (loudly and clearly) *"What is filter coffee?"*
+1. So far so good; but you're tired of typing now. Let's try using voice input. Select the microphone button on the right of the chat box and when the mic is listening, say (loudly and clearly) *"What is filter coffee?"*
 
     > **Tip**: Depending on your bwoser and operating system, the default Web Speech tool used for voice input may not be supported. In this case, the app will try an alternative offline speech model - so you may be prompted to speak again. If *that* fails, you're stuck with typing I'm afraid!
 
@@ -68,7 +68,7 @@ While it's great that No-Pilot can answer general questions, let's be honest, yo
 
 1. Under the chat box, view the suggested prompt categories. Then select **Suggested** and in the list of prompts, select **What's on my calendar?**.
 
-    The prompt is enterered into the chat box, ready for you to edit or submit.
+    The prompt is entered into the chat box, ready for you to edit or submit.
 
     Submit it!
 
@@ -84,7 +84,7 @@ While it's great that No-Pilot can answer general questions, let's be honest, yo
 
 1. View the details of the **Exciting opportunity with Microsoft** email to open it.
 
-    Then, in the toolbar for the email, use the **No-Pilot assistant** button to summarize the email so you can get the key detals without reading the whole thing!
+    Then, in the toolbar for the email, use the **No-Pilot assistant** button to summarize the email so you can get the key details without reading the whole thing!
 
     ![Screenshot of an email with an AI-generated summary.](./Media/summarize-email.png)
 
@@ -112,7 +112,7 @@ The chat interface is great for exploring assets related to your current work, b
 
     ![Screenshot of the search page.](./Media/search-page.png)
 
-1. Search for `Coffee`. Predictably enough, this returns a lot of results, including people, documents, and emails.
+1. Search for `Coffee`. Predictably enough, this returns many results, including people, documents, and emails.
 
     Note that the search results are restricted to corporate data to which you (and No-Pilot) have access!
 
@@ -151,7 +151,7 @@ The *Analyst* agent is focused on a different specialization from the researcher
 
 1. In the analyst search box, use the **+** icon to add work content, and upload the **Microsoft_Financial_Projection.csv** document.
 
-    This document contains a financia projection for moonthyl costs and revenues based on the proposed contract to supply vending machines to Microsoft.
+    This document contains a financial projection for monthly costs and revenues based on the proposed contract to supply vending machines to Microsoft.
 
 1. With the document attached, in the chat box, enter the prompt `Analyze and visualize the data in this projection`.
 
