@@ -76,7 +76,11 @@ While it's great that No-Pilot can answer general questions, let's be honest, yo
 
     ![Screenshot of an document with an AI-generated summary.](./Media/summarize-document.png)
 
-    OK, great! Now you know something about your employer. Now it's time to get to work!
+    Summarizing content is something that AI assistants do extremely well, and it can be a real time-saver when you're busy trying to keep up with everything - especially when you're new to the coffee vending business!
+
+1. Close the **Fourth_Coffee_Services_Overview.md** document.
+
+    OK, great! You've learned something about your employer. Now it's time to get to work!
 
 1. Under the chat box, view the suggested prompt categories. Then select **Suggested** and in the list of prompts, select **What's on my calendar?**.
 
@@ -100,7 +104,7 @@ While it's great that No-Pilot can answer general questions, let's be honest, yo
 
     ![Screenshot of an email with an AI-generated summary.](./Media/summarize-email.png)
 
-    Summarizing content is something that AI assistants do extremely well, and it can be a real time-saver when you're busy trying to keep up with everything - especially when you're new to the coffee vending business!
+    Great - now you're up to speed on the potential deal with Microsoft.
 
 1. Close the email and return to the main chat interface.
 
