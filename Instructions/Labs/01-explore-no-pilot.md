@@ -40,7 +40,7 @@ Imagine you're an employee at *Fourth Coffee Company*, a company that supplies c
 
 *No-Pilot* is an AI assistant that you can use at work to find information, connect with company data resources, and perform common tasks.
 
-1. Open **[No-Pilot](https://graememalcolm.github.io/ai-apps/no-pilot/){:target="_blank"}** at `https://graememalcolm.github.io/ai-apps/no-pilot/`.
+1. Open [No-Pilot](https://graememalcolm.github.io/ai-apps/no-pilot/){:target="_blank"} at `https://graememalcolm.github.io/ai-apps/no-pilot/`.
 
     The first time you open the app, an AI model will be downloaded. This can take a minute or two - be patient! After it's been downloaded once, it will be quicker in future!
 
