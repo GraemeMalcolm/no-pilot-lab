@@ -66,6 +66,18 @@ Imagine you're an employee at *Fourth Coffee Company*, a company that supplies c
 
 While it's great that No-Pilot can answer general questions, let's be honest, you could use your favorite search engine to do that. The real value of an AI assistant at work is that it can use organizational knowledge to help you find relevant internal information and collaborate with colleagues more effectively.
 
+1. In the chat box, enter the prompt `Find documents about espresso`.
+
+    No-Pilot searches your work documents, and lists the results. It looks like there's a document about Fourth Coffee that mentions "espresso".
+
+1. Open the **Fourth_Coffee_Services_Overview.md** document, which provides some information that might be useful to you as a new employee!
+
+    However, you're a busy; so in the toolbar, use the **No-Pilot assistant** button to summarize the document so you can get the key details without reading the whole thing!
+
+    ![Screenshot of an document with an AI-generated summary.](./Media/summarize-document.png)
+
+    OK, great! Now you know something about your employer. Now it's time to get to work!
+
 1. Under the chat box, view the suggested prompt categories. Then select **Suggested** and in the list of prompts, select **What's on my calendar?**.
 
     The prompt is entered into the chat box, ready for you to edit or submit.
@@ -84,7 +96,7 @@ While it's great that No-Pilot can answer general questions, let's be honest, yo
 
 1. View the details of the **Exciting opportunity with Microsoft** email to open it.
 
-    Then, in the toolbar for the email, use the **No-Pilot assistant** button to summarize the email so you can get the key details without reading the whole thing!
+    Then, in the toolbar for the email, use the **No-Pilot assistant** button to summarize the email.
 
     ![Screenshot of an email with an AI-generated summary.](./Media/summarize-email.png)
 
@@ -112,11 +124,11 @@ The chat interface is great for exploring assets related to your current work, b
 
     ![Screenshot of the search page.](./Media/search-page.png)
 
-1. Search for `Coffee`. Predictably enough, this returns many results, including people, documents, and emails.
+1. Search for `Microsoft`, and view the various items that are found.
 
     Note that the search results are restricted to corporate data to which you (and No-Pilot) have access!
 
-1. Search for `Microsoft`, and in the results, find and open the **Microsoft_Financial_Projection.csv** document.
+1. In the results, find and open the **Microsoft_Financial_Projection.csv** document.
 
     In the open document, use the **No-Pilot assistant** button to summarize the document.
 
